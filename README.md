@@ -12,4 +12,4 @@ This project demonstrates how to use the fxPortal contracts to transfer ERC20 to
 7. Wait 20-30ish minutes for tokens to show on polygon account
 8. Use polyscan.com to check your account for the tokens. Once they arrive, you can click on the transaction to get the contract address for polygon.
 9. Use this polygon contract address for your getBalance script's tokenAddress
-10.Run npx hardhat run scripts/beahNFT/getBalance.js --network sepolia to see the new polygon balance
+10.Run npx hardhat run scripts/beahNFT/getBalance.js --network amoy to see the new polygon balance
